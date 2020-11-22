@@ -1,0 +1,31 @@
+.ordinary {
+    width: 40px;
+    height: 40px;
+    background-color: #28a745;
+    border: #ff7731 solid 1px;
+    display: inline-block;
+}
+
+.double {
+    width: 30px;
+    height: 30px;
+    background-color: #005cbf;
+    border: #ff7731 solid 1px;
+    display: inline-block;
+}
+
+.triple {
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+    border: #ff7731 solid 1px;
+    display: inline-block;
+}
+
+.addTime {
+    width: 10px;
+    height: 10px;
+    background-color:gold;
+    border: #ff7731 solid 1px;
+    display: inline-block;
+}
